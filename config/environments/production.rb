@@ -27,6 +27,8 @@ Rails.application.configure do
   # config.assets.css_compressor = :sass
 
   # Do not fallback to assets pipeline if a precompiled asset is missed.
+  ## ---------- my comment -------------------
+  # changed from false to true for heroku 158app as css not loading
   config.assets.compile = true
 
   # Generate digests for assets URLs.
