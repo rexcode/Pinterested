@@ -9,6 +9,7 @@
 <body>
 <%= render 'home/header' %>
 <div class="container">
+<!-- display flash messages on user acction -->
 	<% flash.each do |name, msg| %>
 	<%= content_tag(:div , msg, class: "alert alert-info") %>
 	<% end %>

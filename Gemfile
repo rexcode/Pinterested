@@ -2,8 +2,12 @@ source 'https://rubygems.org'
 
 gem 'rails', '4.1.8'
 gem 'sass-rails', '~> 4.0.3'
+
 gem 'bootstrap-sass', '~> 3.3.5'
+# gem 'dropbox-sdk', '~> 1.6.5'
+gem 'cloudinary', '~> 1.1.0'
 gem 'devise', '~> 3.4.1'
+
 gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.0.0'
 gem 'jquery-rails'
