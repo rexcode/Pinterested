@@ -5,8 +5,8 @@ gem 'sass-rails', '~> 4.0.3'
 
 gem 'bootstrap-sass', '~> 3.3.5'
 # gem 'dropbox-sdk', '~> 1.6.5'
-gem 'paperclip', '~> 4.2.1'
-gem 'aws-sdk', '~> 1.60.2'
+# gem 'paperclip', '~> 4.2.1'
+# gem 'aws-sdk', '~> 1.60.2'
 # gem 'cloudinary', '~> 1.1.0'
 gem 'devise', '~> 3.4.1'
 
