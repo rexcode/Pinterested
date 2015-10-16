@@ -1,10 +1,10 @@
 Rails.application.routes.draw do
 
   # created using scaffold - restful type
-  resources :pins
+  resources :pins # table = pins
 
-  # created using gem - devise for user authentication
-  devise_for :users
+  # created using gem - devise gem for user authentication
+  devise_for :users # table = users
 
   # get 'home/index'
   root 'home#index'
