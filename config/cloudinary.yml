@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: rexcode
+  api_key: '486437973183114'
+  api_secret: fzPdgzSTDnDNFYJE7KC_vZr7-Zc
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: rexcode
+  api_key: '486437973183114'
+  api_secret: fzPdgzSTDnDNFYJE7KC_vZr7-Zc
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: rexcode
+  api_key: '486437973183114'
+  api_secret: fzPdgzSTDnDNFYJE7KC_vZr7-Zc
+  enhance_image_tag: true
+  static_image_support: false
