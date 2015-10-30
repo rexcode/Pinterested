@@ -4,6 +4,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.1.8'
 gem 'sass-rails', '~> 4.0.3'
 
+gem 'coffee-script-source', '1.8.0'
 gem 'bootstrap-sass', '~> 3.3.5'
 # gem 'dropbox-sdk', '~> 1.6.5'
 gem 'paperclip', '~> 4.2.1'
