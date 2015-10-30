@@ -2,9 +2,9 @@
 
 <p>
   <strong>Description:</strong>
-  <%= image_tag @pin.image.url(:medium)%>
+  <%= image_tag @pin.image.url(:medium)%><br/>
   <%= @pin.description %>
-  <%= %>
+  <br/>
 </p>
 <% if @pin.user == current_user %>
 <%= link_to 'Edit', edit_pin_path(@pin) %> |
