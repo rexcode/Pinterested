@@ -1,28 +1,20 @@
-== README
+== Pinterested
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Pinterested is a simple clone of Pinterest.
 
-Things you may want to cover:
+It is built using Ruby on Rails framework.
 
-* Ruby version
+It's also uses Twitter Bootstrap front-end framework.
 
-* System dependencies
+It has many featues like --
 
-* Configuration
+* User registration and Authentication using Devise gem
 
-* Database creation
+* Users can load their own pins - photographs and add description to it.
 
-* Database initialization
+* They can edit and destroy these pins as required.
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* They can also check other users pins.
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+
